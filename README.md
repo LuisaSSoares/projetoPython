@@ -1,1 +1,1 @@
-# N-o_Encontre_o_Nariz
+o projeto desenvolvido na linguagem de programação Python consiste em um jogo chamado "Não encontre o nariz", criado em 2023 durante o técnico de Informática Aplicada à Internet, com o propósito de colocar em prática tudo o que foi aprendido durante as aulas. 
